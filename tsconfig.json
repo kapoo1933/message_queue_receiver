@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "moduleResolution": "nodenext",
+    "paths": {
+      "@*": [
+        "./src/*"
+      ]
+    },
+    "module": "NodeNext",
+    "outDir": "./dist"
+  }
+}

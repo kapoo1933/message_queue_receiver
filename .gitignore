@@ -1,0 +1,10 @@
+.DS_Store
+*.code-workspace
+.env
+.cache/
+build/
+dist/
+node_modules/
+public/
+target/
+*.localtest.*
